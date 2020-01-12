@@ -1,0 +1,25 @@
+{
+  "name": "news-summary-challenge",
+  "version": "1.0.0",
+  "description": "A Guardian news summary single page app",
+  "main": "-",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node unit.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffgi-es/news-summary-challenge.git"
+  },
+  "author": "Alastair Gilles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffgi-es/news-summary-challenge/issues"
+  },
+  "homepage": "https://github.com/ffgi-es/news-summary-challenge#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
